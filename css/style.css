@@ -83,7 +83,7 @@ a:active {
       text-transform: uppercase;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 992px) {
       #sideNav {
           text-align: center;
           position: left;
